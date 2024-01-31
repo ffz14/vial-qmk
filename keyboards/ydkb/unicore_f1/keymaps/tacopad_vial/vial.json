@@ -1,4 +1,7 @@
 {
+  "name": "KBDFans TacoPad",
+  "vendorId": "0x9D5B",
+  "productId": "0x2302",
   "lighting": "qmk_rgblight",
   "matrix": {"rows": 14, "cols": 8},
   "layouts": {
