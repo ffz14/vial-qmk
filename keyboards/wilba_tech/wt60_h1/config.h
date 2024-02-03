@@ -45,3 +45,5 @@
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+#define CAPS_WORD_IDLE_TIMEOUT 3000  // 3 seconds.
